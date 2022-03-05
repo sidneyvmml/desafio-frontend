@@ -1,0 +1,18 @@
+.most-recent-container {
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    
+}
+
+.most-recent-list {
+  
+    flex-direction: row;
+    justify-content: baseline;
+  
+   
+}
+
+.more-videos-grid {
+    padding: 10 5 10 30;
+}
